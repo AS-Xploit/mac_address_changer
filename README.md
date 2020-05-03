@@ -2,7 +2,7 @@
 
 This tool is written in Python3
 so you can simply run it by using 
-<span style="color:orange"> > $ Python3 mac_changer.py </span>
+> $ Python3 mac_changer.py
 If you are new user of my tool, better to take help by using this command  
 > $ Python3 mac_changer.py -h
 This tool is an automated tool written to change the mac address in short time and easily.
